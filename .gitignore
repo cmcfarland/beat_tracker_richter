@@ -33,6 +33,12 @@ app/JUCE/*
 # ignore OS generated files
 .DS_Store
 .ipynb_checkpoints/
-*/desktop.ini
+
 python/build/*
 python/__pycache__/*
+.vscode/settings.json
+desktop.ini
+app/BeatTracker/desktop.ini
+app/BeatTracker/JuceLibraryCode/desktop.ini
+app/BeatTracker/Source/desktop.ini
+doc/figures/desktop.ini
